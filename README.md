@@ -1,5 +1,7 @@
 # Breeze Catppuccin
 
+![](/assets/demo.png)
+
 ## Description
 
 Just like KDE Breeze Dark cursor pack, but with Catppuccin Mocha colors
